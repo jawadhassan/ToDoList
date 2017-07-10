@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="todo_title">Title</string>
+    <string name="todo_submit">Submit</string>
+    <string name="todo_done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="hint_title">Enter The Title</string>
+    <string name="hint_text">Enter The Text</string>
+
+</resources>
